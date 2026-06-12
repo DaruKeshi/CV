@@ -220,6 +220,15 @@ aside li::before {
     font-weight: bold;
 }
 
+aside a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+aside a:hover {
+    text-decoration: underline;
+}
+
 /* ========== SECCIÓN CONTACTO ========== */
 #contacto {
     background-color: #fff;
